@@ -2,7 +2,7 @@
 
 hewwo hehe 
 
-[https://i.imgur.com/rWvNuJt.gif]
+[ https://i.imgur.com/rWvNuJt.gif ]
 
 
 <!--
