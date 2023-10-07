@@ -1,6 +1,6 @@
 ### hewwo hehe 😼
 
-`$whoami:` just a girl, doing girly things like coding 
+`$whoami` just a girl, doing girly things like coding 
 
 
 <br></br>
