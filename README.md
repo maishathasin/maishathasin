@@ -1,6 +1,7 @@
-### Hi there 👋
+### hewwo hehe 😼
 
-hewwo hehe 
+`$whoami:` just a girl, doing girly things like coding 
+
 
 <br></br>
 <a href="https://www.youtube.com/watch?v=FtutLA63Cp8">![linux directory button](https://i.imgur.com/rWvNuJt.gif )</a>
