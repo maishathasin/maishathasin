@@ -2,10 +2,15 @@
 
 `$whoami` just a girl, doing girly things like coding 
 
+<a>![linux directory button](https://github.com/maishathasin/maishathasin/blob/main/cat%20dance.gif)</a>
+
 
 <br></br>
 <a href="https://www.youtube.com/watch?v=FtutLA63Cp8">![linux directory button](https://i.imgur.com/rWvNuJt.gif )</a>
+<a href="https://www.youtube.com/watch?v=Z9G1Mf6TZRs">![linux directory button](https://github.com/maishathasin/maishathasin/blob/main/sonic.gif)</a>
+
 <br>
+
 
 
 <!--
