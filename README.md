@@ -6,8 +6,10 @@
 
 
 <br></br>
-<a href="https://www.youtube.com/watch?v=FtutLA63Cp8">![linux directory button](https://i.imgur.com/rWvNuJt.gif )</a>
-<a href="https://www.youtube.com/watch?v=Z9G1Mf6TZRs">![linux directory button](https://github.com/maishathasin/maishathasin/blob/main/sonic.gif)</a>
+<a href="https://www.youtube.com/watch?v=FtutLA63Cp8">![](https://i.imgur.com/rWvNuJt.gif )</a>
+<a href="https://www.youtube.com/watch?v=Z9G1Mf6TZRs">![](https://github.com/maishathasin/maishathasin/blob/main/sonic.gif)</a>
+<a href="https://www.youtube.com/watch?v=4B9NdMElWgE&t=5s">![](https://github.com/maishathasin/maishathasin/blob/main/hitoshi.gif)</a>
+
 
 <br>
 
