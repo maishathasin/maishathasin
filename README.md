@@ -1,6 +1,6 @@
 ### hewwo hehe 😼
 
-`$whoami` just a girl, doing girly things like coding 
+`$whoami` just a girl, doing girly things
 
 <a>![linux directory button](https://github.com/maishathasin/maishathasin/blob/main/cat%20dance.gif)</a>
 
